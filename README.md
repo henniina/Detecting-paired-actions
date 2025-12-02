@@ -4,7 +4,7 @@ The annotation framework and guidelines can be used for implementing novel class
 
 ## Resources:
 - **Models:** Models can be found here: https://huggingface.co/Finnish-actions
-- **Paper:** Paakki, H., Toivanen, P. and Kajava K. (forthcoming). Implicit and Indirect: Detecting Face-threatening and Paired Actions in Asynchronous Online Conversations. Northern European Journal of Language Technology (NEJLT), 0(0).
+- **Paper:** Paakki, H., Toivanen, P. and Kajava K. (2025). Implicit and Indirect: Detecting Face-threatening and Paired Actions in Asynchronous Online Conversations. _Northern European Journal of Language Technology (NEJLT)_, 11(1), pp. 58-83.
 
 
 
@@ -50,11 +50,13 @@ If you use this model, please cite the following work:
 ### BibTeX
 ```bibtex
 @article{paakki-implicit-indirect,
-    doi = {forthcoming},
-    url = {forthcoming},
+    doi = {https://doi.org/10.3384/nejlt.2000-1533.2025.5980},
+    url = {https://nejlt.ep.liu.se/article/view/5980},
     author = {Paakki, Henna and Toivanen, Pihla and Kajava, Kaisla},
     title = {Implicit and Indirect: Detecting Face-threatening and Paired Actions in Asynchronous Online Conversations},
-    publisher = {Northern European Journal of Language Technology},
+    publisher = {Northern European Journal of Language Technology (NEJLT)},
+    volume= {11},
+    number= {1},
     year = {2025}
 }
 ```
