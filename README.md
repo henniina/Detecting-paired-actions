@@ -5,6 +5,7 @@ The annotation framework and guidelines can be used for implementing novel class
 ## Resources:
 - **Models:** Models can be found here: https://huggingface.co/Finnish-actions
 - **Paper:** Paakki, H., Toivanen, P. and Kajava K. (2025). Implicit and Indirect: Detecting Face-threatening and Paired Actions in Asynchronous Online Conversations. _Northern European Journal of Language Technology (NEJLT)_, 11(1), pp. 58-83.
+- **Data:** If you wish to replicate our study or use our data for research purposes (abiding by rules stated here), please get in touch.
 
 
 
