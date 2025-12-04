@@ -1,5 +1,5 @@
 # Detecting-paired-actions
-<img width="1920" height="1080" alt="illustr2" src="https://github.com/user-attachments/assets/b3653165-6c0d-433f-8d9a-6f949f5c8e60" />
+<img width="520" height="400" alt="illustr2" src="https://github.com/user-attachments/assets/b3653165-6c0d-433f-8d9a-6f949f5c8e60" />
 
 This repository provides resources developed for the identification of face-threatening and paired actions in asynchronous social media discussions and comments to crisis-related news.
 The annotation framework and guidelines can be used for implementing novel classification approaches to also other contexts (e.g., different language or platform contexts), but in these cases the framework should be tested and refined in case other important actions emerge as important (other than what we used).
